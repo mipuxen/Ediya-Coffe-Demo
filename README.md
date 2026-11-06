@@ -4,7 +4,7 @@
 
 **A coffee-shop website that helps non-Korean speakers order at the counter, with a real-time 3D drink story on the home page.**
 
-[Live demo](https://YOUR-VERCEL-URL.vercel.app) · [한국어](./README.ko.md)
+[Live demo](https://ediya-coffe-demo.vercel.app) · [한국어](./README.ko.md)
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000?logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
