@@ -4,7 +4,7 @@
 
 **한국어가 서툰 손님이 카운터에서 주문할 수 있게 돕는 카페 웹사이트. 홈에는 실시간 3D로 음료가 만들어지는 과정을 보여줍니다.**
 
-[라이브 데모](https://YOUR-VERCEL-URL.vercel.app) · [English](./README.md)
+[라이브 데모](https://ediya-coffe-demo.vercel.app) · [English](./README.md)
 
 ![Next.js](https://img.shields.io/badge/Next.js_14-000?logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
